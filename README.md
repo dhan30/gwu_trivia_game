@@ -1,24 +1,43 @@
 
-Objective:
-Create a self-knowledge test.
+# Trivia_test
 
-Prerequisites:
+An application built to allow users to test their knowledge on variety of topics such
+as movies, history, science, math, and much more to come.
+
+
+### Description
+
+Single Page Dynamic Webpage Trivia Game.
+
+### Future Goal
+
+Create a Dynamic Web App to enable users to post scores and rankings
+
+
+## Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+
+### Prerequisities
+
 Internet Connection
-Preferred browser(Google Chrome)
+`
 
+## Example Use
 
-Run:
-click on this link ""
+(Image here of app page)
 
-Tools:
-HTML
-CSS
-BootStrap
-JavaScript
+## Deployment
 
-Authors:
-David H Han
+Heroku
 
-More detailed information:
-An application where you can test your knowledge on several topics, such
-as movies, history, science, math, and much more. 
+## Built With
+
+*HTML
+*CSS
+*BootStrap
+*JavaScript
+
+## Authors
+
+* **David Han** - *Initial work* - [David Han](https://github.com/dhan30)
